@@ -3,5 +3,5 @@ Il nostro piatto preferito
 ## Ingredienti
 * spaghetti
 * aglio
-* olio
+* olio extra vergine d'oliva
 * peperoncino
